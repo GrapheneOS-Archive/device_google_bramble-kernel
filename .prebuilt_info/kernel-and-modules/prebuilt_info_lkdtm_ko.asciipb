@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "6288131"
+    target: "kernel_redbull"
+    source_file: "lkdtm.ko"
+  }
+  dest_file: "lkdtm.ko"
+  version: "Linux version 4.19.91-g1ed347277aa7-ab6288131 (android-build@wprd6.hot.corp.google.com) (Android (6207600 based on r377782b) clang version 10.0.4 (https://android.googlesource.com/toolchain/llvm-project 0cb1afdb060d6619a9837ab6866cf4adf2336416)) #1 SMP PREEMPT Thu Mar 12 07:40:26 UTC 2020"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/bramble-kernel"
+}

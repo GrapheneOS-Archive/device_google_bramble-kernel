@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "6505286"
+    target: "kernel_redbull_kasan"
+    source_file: "test_kasan.ko"
+  }
+  dest_file: "kasan/test_kasan.ko"
+  version: "Linux version 4.19.95-ga7869ebe4bc5-ab6505286 (android-build@abfarm-east4-067) (Android (6207600 based on r377782b) clang version 10.0.4 (https://android.googlesource.com/toolchain/llvm-project 0cb1afdb060d6619a9837ab6866cf4adf2336416)) #1 SMP PREEMPT Mon May 18 12:07:29 UTC 2020"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/bramble-kernel"
+}

@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "5885916"
+    target: "kernel_bramble"
+    source_file: "torture.ko"
+  }
+  dest_file: "torture.ko"
+  version: "Linux version 4.19.66-g199f5a0c292e-ab5885916 (android-build@wprl2.hot.corp.google.com) (Android (5484270 based on r353983c) clang version 9.0.3 (https://android.googlesource.com/toolchain/clang 745b335211bb9eadfa6aa6301f84715cee4b37c5) (https://android.googlesource.com/toolchain/llvm 60cf23e54e46c807513f7a36d0a7b777920b5881) (based on LLVM 9.0.3svn)) #1 SMP PREEMPT Thu Sep 19 04:05:12 UTC 2019"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/bramble-kernel"
+}

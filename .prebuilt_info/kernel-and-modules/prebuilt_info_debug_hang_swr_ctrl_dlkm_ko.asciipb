@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "6042764"
+    target: "kernel_bramble_debug_hang"
+    source_file: "swr_ctrl_dlkm.ko"
+  }
+  dest_file: "debug_hang/swr_ctrl_dlkm.ko"
+  version: "Linux version 4.19.79-g86e5ee60af7e-ab6042764 (android-build@abfarm-us-west1-c-0081) (Android (5900059 based on r365631c) clang version 9.0.8 (https://android.googlesource.com/toolchain/llvm-project 207d7abc1a2abf3ef8d4301736d6a7ebc224a290) (based on LLVM 9.0.8svn)) #1 SMP PREEMPT Mon Dec 2 06:30:36 UTC 2019"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/bramble-kernel"
+}

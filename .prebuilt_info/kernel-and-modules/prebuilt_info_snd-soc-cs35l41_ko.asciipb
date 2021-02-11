@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "7002196"
+    target: "kernel_redbull"
+    source_file: "snd-soc-cs35l41.ko"
+  }
+  dest_file: "snd-soc-cs35l41.ko"
+  version: "Linux version 4.19.110-g73b0795f4489-ab7002196 (android-build@abfarm-01127) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Mon Nov 30 20:43:17 UTC 2020"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/bramble-kernel"
+}

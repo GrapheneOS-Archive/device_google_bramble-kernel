@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "6648694"
+    target: "kernel_redbull-gki"
+    source_file: "system_pm.ko"
+  }
+  dest_file: "gki/system_pm.ko"
+  version: "Linux version 4.19.110-g72f72105e5c8-ab6648694 (android-build@abfarm-east4-017) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Thu Jul 2 09:33:31 UTC 2020"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/bramble-kernel"
+}
