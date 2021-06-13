@@ -141,6 +141,7 @@ kernel/drivers/usb/roles/roles.ko
 kernel/drivers/input/touchscreen/touch_offload.ko
 kernel/drivers/input/touchscreen/touchscreen_tbn.ko
 kernel/drivers/input/touchscreen/heatmap.ko
+kernel/drivers/input/touchscreen/stm/ftm5.ko
 kernel/drivers/input/misc/drv2624.ko
 kernel/drivers/input/misc/qpnp-power-on.ko
 kernel/drivers/input/misc/vd6281/vd6281_module.ko
